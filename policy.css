@@ -1,0 +1,21 @@
+.title {
+  color: #535353;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.line-spacing {
+  margin-top: 50px;
+}
+@media ( max-width: 768px )
+  body { color: black }
+}
+@media ( min -width: 768px)
+}
+{
+  @@media screen and (max-width: 768px) {
+    body{
+      background-color: gray;
+    }
+  }
+}
